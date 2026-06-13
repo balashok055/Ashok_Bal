@@ -133,7 +133,7 @@ h1 {
   max-width: 900px;
   margin-bottom: 22px;
   font-size: clamp(2.65rem, 7vw, 5.9rem);
-  line-height: 0.96;
+  line-height: 1.4;
 }
 
 h2 {
